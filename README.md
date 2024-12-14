@@ -29,9 +29,9 @@ The main idea of this `C++` project template is to show how to obtain a _perfect
 
 The major `C++` IDEs should already support `CMakePresets.json` and require no particular configuration. 
 
-For example [Visual Studio Code](https://code.visualstudio.com/) with the [CMake Tools extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) let you to open the root folder of this repository, and select in the status bar the CMake preset (e.g. `ninja-multi-vcpkg`), as show in the following image:
+For example with [Visual Studio Code](https://code.visualstudio.com/) and the [CMake Tools extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) you can open the root folder of this repository, and then build, test, format using the CMake Project Outline window, as show in the following image:
 
-![CMake's preset selection in the status bar of Visual Studio Code](./img/vscode_cmakepresets_selection.png)
+![CMake's Project Outline window of Visual Studio Code](./img/vscode_cmake_project_outline.png)
 
 <br>
 
@@ -39,4 +39,5 @@ For example [Visual Studio Code](https://code.visualstudio.com/) with the [CMake
 
 All the content in this repository is licensed under the [MIT License](LICENSE.txt).
 
-Copyright © 2021-2022-2023 Luca Cappa
+Copyright © 2021-2022-2023-2024 Luca Cappa</br>
+Copyright © 2024 Benney Au
